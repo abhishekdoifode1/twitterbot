@@ -1,6 +1,6 @@
 ## Reweet Bot 
 
-Retweets the latest tweet using the **"#MeetMaye"** hashtag. 
+Retweets the latest tweet using the **"#HeyAbhi"** hashtag. 
 It attempts to retweet once per hour. You can always change the # to fit your needs.
 
 ### Install twit
